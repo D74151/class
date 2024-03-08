@@ -16,7 +16,7 @@ if (number > 0 && number % 2 === 0) {
 } else {
   console.log("The number is not positive and even.");
 }
-//***OR Operator (||) Examples***
+//***OR Operator (||) Examples* **
 //1. Checking if a user is both logged in and has admin privileges:
 const customerAge = 40;
 const hasLoyaltyCard = false;
