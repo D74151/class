@@ -1,0 +1,11 @@
+.ul {
+    font-size: larger;
+    color: green;
+    background-color:hwb(from color h w b);
+}
+#logo {
+    width: 500px
+}
+.body {
+    background-image: repeating-linear-gradient("Seinfeld");
+}
